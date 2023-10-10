@@ -1,0 +1,30 @@
+html{
+
+}
+body{
+color:#000000
+}
+header{
+    background: color #000;
+    color:#f30000;
+    text-align:center;
+    padding: 20px ;
+}
+nav{
+    list-style-type:none;
+   } 
+   nav ul{
+    padding: 20px;
+   }
+nav li{
+    display: inline;
+
+}
+a{
+    text-decoration:none
+    color:#333;
+    font-weight: bold
+
+}
+   
+
